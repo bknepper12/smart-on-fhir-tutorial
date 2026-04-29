@@ -66,6 +66,7 @@
 
           p.hdl = getQuantityValueAndUnit(hdl[0]);
           p.ldl = getQuantityValueAndUnit(ldl[0]);
+          p.bodytemperature = getQuantityValueAndUnit(bodytemperature[0]);
 
           ret.resolve(p);
         });
