@@ -20,6 +20,7 @@
                               'http://loinc.org|8480-6',//systolic BP 
                               'http://loinc.org|2085-9',//HDL
                               'http://loinc.org|2089-1',//LDL 
+                              'http://loinc.org|8310-5',//Body Temperature
                               'http://loinc.org|85354-9']//BP systolic and diastolic
                       }
                     }
